@@ -420,6 +420,16 @@ input,textarea{
   }
 }
 
+.news-content {
+  list-style: none;
+  border-radius: 10px;
+  background-color: #4AB6DD;
+  text-align: center;
+  color: #fff;
+}
+
+/* /热销 */
+
 
 /*合作伙伴*/
 
